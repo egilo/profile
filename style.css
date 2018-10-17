@@ -1,5 +1,5 @@
 body {
-  background-color: #E5E8E8;
+  background-color: *#E5E8E8;
   font-family: 'Roboto', sans-serif;
   font-weight: light;
   color: #273746;
@@ -69,7 +69,7 @@ a {
 
 
 .card {
-  border-radius: 10px;
+  border-radius: 5px;
   background-color: #F8F9F9;
   padding: 30px;
   margin: 15px;
@@ -93,7 +93,7 @@ a {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 25px;
-    color: #EAECEE;
+    color: white;
     display: block;
 }
 
