@@ -84,7 +84,7 @@ a {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #797D7F; opacity: 0.9;
+    background-color: RGB(0.22, 0.25, 0.29, 1.00); opacity: .8;
     overflow-x: hidden;
     padding-top: 20px;
 }
